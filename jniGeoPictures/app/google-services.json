@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293166256809",
+    "firebase_url": "https://named-sequencer-258902.firebaseio.com",
+    "project_id": "named-sequencer-258902",
+    "storage_bucket": "named-sequencer-258902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293166256809:android:5a30edaf4c32e424738fb8",
+        "android_client_info": {
+          "package_name": "edu.ucsb.cs.cs184.jiawei_ni.jnigeopictures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293166256809-jm5dm36jb8j971fodptqn51vmq1gn8kl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ucsb.cs.cs184.jiawei_ni.jnigeopictures",
+            "certificate_hash": "8bea8965204af217950307fbca5cff22f670ac47"
+          }
+        },
+        {
+          "client_id": "293166256809-oi1ei6v7rq5r02ptvqpjuusf5h9ravs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsk6f4BRK12zGpFC-Ae5bPZXjAq5WCWKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293166256809-oi1ei6v7rq5r02ptvqpjuusf5h9ravs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
